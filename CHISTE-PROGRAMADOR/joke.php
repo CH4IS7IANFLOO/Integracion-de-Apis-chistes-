@@ -1,4 +1,4 @@
-// File: Integracion-de-Apis-chistes-/CHISTE-PROGRAMADOR/joke.php
+// Archivo de Integracion-de-Apis-chistes-/CHISTE-PROGRAMADOR/joke.php
 
 
 <?php
