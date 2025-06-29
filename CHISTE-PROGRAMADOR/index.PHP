@@ -12,7 +12,7 @@
 <body>
     <div class="container">
         <img src="assets/img/logo.png" alt="Logo Chiste de Programador" style="width:80px; margin-bottom:10px;">
-        <h1>😂 Chiste de Programador 😂</h1>
+        <h1>😂 Chistes de Programadores 😂</h1>
         <div id="joke-box">
             <div id="setup" class="joke-text"></div>
             <button id="show-punchline" class="btn">Mostrar respuesta</button>
@@ -22,7 +22,7 @@
             <button id="another-joke" class="btn">Otro chiste</button>
         </div>
         <div class="vote">
-            <span>¿Te gustó?</span>
+            <span>¿Te gustó el chiste?</span>
             <button id="like" class="vote-btn">👍</button>
             <button id="dislike" class="vote-btn">👎</button>
             <span id="vote-msg"></span>
