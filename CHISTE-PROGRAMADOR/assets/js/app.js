@@ -1,4 +1,6 @@
+// gestionar la interacción del usuario con los chistes y la comunicación con el backend para obtener nuevos chistes.
 // app.js
+
 const setupEl = document.getElementById('setup');
 const punchlineEl = document.getElementById('punchline');
 const showPunchlineBtn = document.getElementById('show-punchline');
